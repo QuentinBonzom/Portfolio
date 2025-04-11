@@ -29,7 +29,7 @@ function Description() {
           muted
           loop
           className="max-md:hidden w-70 min-lg:w-85 max-w-md rounded-4xl"
-          src="./assets/tes8.mp4"
+          src="/tes8.mp4"
         />
       </section>
     </main>

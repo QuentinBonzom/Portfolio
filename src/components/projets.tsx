@@ -11,7 +11,7 @@ function Projets() {
         <section className="flex flex-col items-center">
           <img
             className="w-40 lg:w-45 xl:w-50 bg-white p-1.5 rounded-xl"
-            src="./assets/fourchestlogo.png"
+            src="/fourchestlogo.png"
             alt="Logo Fourch'Est"
           />
           <a
@@ -26,7 +26,7 @@ function Projets() {
         <section className="flex flex-col items-center">
           <img
             className="w-40 lg:w-45 xl:w-50 bg-white p-1.5 rounded-xl"
-            src="./assets/rscustomlogo.png"
+            src="/rscustomlogo.png"
             alt="Logo RsCustom"
           />
           <a
@@ -41,7 +41,7 @@ function Projets() {
         <section className="flex flex-col items-center">
           <img
             className="w-40 lg:w-45 xl:w-50 bg-white p-1.5 rounded-xl"
-            src="./assets/logoLADLsf.png"
+            src="/logoLADLsf.png"
             alt="Les Amis Des Levriers"
           />
           <a
@@ -56,7 +56,7 @@ function Projets() {
         <section className="flex flex-col items-center">
           <img
             className="w-40 lg:w-45 xl:w-50 bg-white p-1.5 rounded-xl"
-            src="./assets/autreslogo.png"
+            src="/autreslogo.png"
             alt="Autres Projets à venir"
           />
           <a
@@ -71,7 +71,7 @@ function Projets() {
         <section className="flex flex-col items-center">
           <img
             className="w-40 lg:w-45 xl:w-50 bg-white p-1.5 rounded-xl"
-            src="./assets/autreslogo.png"
+            src="/autreslogo.png"
             alt="Autres Projets à venir"
           />
           <a
@@ -86,7 +86,7 @@ function Projets() {
         <section className="flex flex-col items-center">
           <img
             className="w-40 lg:w-30 xl:w-50 bg-white p-1.5 rounded-xl"
-            src="./assets/autreslogo.png"
+            src="/autreslogo.png"
             alt="Autres Projets à venir"
           />
           <a

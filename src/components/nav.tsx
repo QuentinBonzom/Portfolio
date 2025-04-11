@@ -8,7 +8,7 @@ function Navbar() {
       <section className="flex items-center justify-between mr-5 p-3">
         {/* Logo */}
         <div>
-          <img src="./assets/logoB.png" className="w-40" alt="Quentin Logo" />
+          <img src="logoB.png" className="w-40" alt="Quentin Logo" />
         </div>
 
         {/* Liens desktop */}

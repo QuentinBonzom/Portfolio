@@ -7,7 +7,7 @@ function About() {
         
         <section className="flex flex-col md:flex-row items-center justify-center mt-5 gap-6">
           <img
-            src="./assets/profilepicture.png"
+            src="/profilepicture.png"
             alt="Profile Quentin Bonzom"
             className="w-40 md:w-50 xl:w-70 rounded-2xl mt-5"
           />

@@ -8,42 +8,42 @@ function Skills() {
         <section className="grid grid-cols-4 gap-4 justify-items-center">
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/HTML.svg"
+            src="/HTML.svg"
             alt="HTML LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/CSS.svg"
+            src="/CSS.svg"
             alt="CSS LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/VSC.svg"
+            src="/VSC.svg"
             alt="VSC LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/JS.svg"
+            src="/JS.svg"
             alt="JS LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/PHP.svg"
+            src="/PHP.svg"
             alt="PHP LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/REACT.svg"
+            src="/REACT.svg"
             alt="REACT LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/MYSQL.svg"
+            src="/MYSQL.svg"
             alt="MYSQL LOGO"
           />
           <img
             className="w-20 sm:w-24 md:w-32 lg:w-40 bg-white rounded-full"
-            src="./assets/Icones/TAILWIND CSS.svg"
+            src="/TAILWIND CSS.svg"
             alt="TAILWIND CSS LOGO"
           />
         </section>
