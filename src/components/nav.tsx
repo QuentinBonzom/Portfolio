@@ -53,7 +53,7 @@ function Navbar() {
         </div>
       </section>
 
-      {/* Menu mobile toujours présent dans le DOM */}
+      {/* Menu mobile toujours présent */}
       <div
         className={`absolute top-16 right-0 bg-[#0D2B46] text-white rounded-md shadow-md p-4 flex flex-col space-y-3 md:hidden transform transition-transform duration-300 ${
           ouvert ? 'translate-x-0' : 'translate-x-full'
